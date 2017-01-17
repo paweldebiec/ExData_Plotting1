@@ -112,3 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+#According to instructions the code producing each diagram is saved in separate file. 
+The code assumes that the data has already been downloaded and saved in "data" folder. (downloading and unziping script available commented in first file. )
+In order to create files please source code from all files. 
